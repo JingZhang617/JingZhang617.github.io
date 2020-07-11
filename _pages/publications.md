@@ -8,7 +8,3 @@ author_profile: true
 <b>Jing Zhang</b>, Deng-Ping Fan, Yuchao Dai, Saeed Anwar, Fatemeh Sadat Saleh, Tong Zhang, Nick Barnes.
 <i>CVPR 2020</i>.
 
-
-
-
-[\* denotes equal contribution]
