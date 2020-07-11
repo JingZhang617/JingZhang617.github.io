@@ -19,7 +19,7 @@ redirect_from:
 
 # Recent News
 * June, 2020. One paper accepted to ECCV 2020.
-* March. Two papers accepted to CVPR 2020.
+* March 2020. Two papers accepted to CVPR 2020.
 
 # Academic Services
 * Reviewer: CVPR 2020, ACCV 2020, BMVC 2020, WACV 2020.
