@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://JingZhang617.github.io/file/jing_img.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
 
 # About Me
 * I am a Ph.D. student in the College of Engineering and Computer Science, Australian National University, advised by Prof. Nick Barnes. [[Google Scholar](https://scholar.google.com.au/citations?user=Qa1DMv8AAAAJ&hl=en)]
