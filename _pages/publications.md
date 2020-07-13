@@ -3,8 +3,28 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com.au/ci
 permalink: /publications/
 author_profile: true
 ---
+
+<br>
+<b>[Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection]</b> <br> 
+<b>Jing Zhang</b>, Jianwen Xie, Nick Barnes.
+<i>ECCV 2020</i>.
+
 <br>
 <b>[UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variational Autoencoders]</b> <br> 
 <b>Jing Zhang</b>, Deng-Ping Fan, Yuchao Dai, Saeed Anwar, Fatemeh Sadat Saleh, Tong Zhang, Nick Barnes.
 <i>CVPR 2020</i>.
 
+<br>
+<b>[Weakly-Supervised Salient Object Detection via Scribble Annotations]</b> <br> 
+<b>Jing Zhang</b>, Xin Yu, Aixuan Li, Peipei Song, Bowen Liu, Yuchao Dai.
+<i>CVPR 2020</i>.
+
+<br>
+<b>[Few-shot learning via saliency-guided hallucination of samples]</b> <br> 
+<b>Hongguang Zhang, Jing Zhang</b>, Piotr Koniusz.
+<i>CVPR 2019</i>.
+
+<br>
+<b>[Deep unsupervised saliency detection: A multiple noisy labeling perspective]</b> <br> 
+<b>Jing Zhang</b>, Tong Zhang, Yuchao Dai, Mehrtash Harandi, Richard Hartley.
+<i>CVPR 2018</i>.
