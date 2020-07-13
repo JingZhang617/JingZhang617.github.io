@@ -3,6 +3,7 @@ title: "Selected Publications [(Google Scholar Profile)](https://scholar.google.
 permalink: /publications/
 author_profile: true
 ---
+<br>
 <b>1. Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection<br> 
 <b>Jing Zhang</b>, Jianwen Xie, Nick Barnes.
 <i>ECCV 2020</i>.
