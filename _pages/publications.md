@@ -5,15 +5,15 @@ author_profile: true
 ---
 <br>
 <b>1. [Simultaneously Localize, Segment and Rank the Camouflaged Objects]</b> <br> 
-<b>Yunqiu Lyu*, Jing Zhang*</b>, Yuchao Dai, Aixuan Li, Bowen Liu, Nick Barnes, Deng-Ping Fan.
+Yunqiu Lyu*, <b>Jing Zhang*</b>, Yuchao Dai, Aixuan Li, Bowen Liu, Nick Barnes, Deng-Ping Fan.
 <i>CVPR 2021</i>.
 
 <b>2. [Uncertainty-aware Joint Salient Object and Camouflaged Object Detection]</b> <br> 
-<b>Aixuan Li*, Jing Zhang*</b>, Yunqiu Lyu, Bowen Liu, Tong Zhang, Yuchao Dai.
+Aixuan Li*, <b>Jing Zhang*</b>, Yunqiu Lyu, Bowen Liu, Tong Zhang, Yuchao Dai.
 <i>CVPR 2021</i>.
 
 <b>3. [Weakly Supervised Video Salient Object Detection]</b> <br> 
-<b>Wangbo Zhao, Jing Zhang</b>, Long Li, Nick Barnes, Nian Liu, Junwei Han.
+Wangbo Zhao, <b>Jing Zhang</b>, Long Li, Nick Barnes, Nian Liu, Junwei Han.
 <i>CVPR 2021</i>.
 
 <b>4. [Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection]</b> <br> 
