@@ -15,6 +15,7 @@ redirect_from:
 * I received my Bachelor’s and Master's Degrees in Northwestern Polytechnical University.
 
 # Recent News
+* April, 2021. One paper accepted to TPAMI 2021.
 * March, 2021. Three paper accepted to CVPR 2021.
 * June, 2020. One paper accepted to ECCV 2020.
 * March 2020. Two papers accepted to CVPR 2020.
