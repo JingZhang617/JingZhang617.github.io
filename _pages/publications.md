@@ -4,11 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>1. [Uncertainty Inspired RGB-D Saliency Detection]</b> <br> 
+<b>1. [Uncertainty Inspired RGB-D Saliency Detection](https://arxiv.org/abs/2009.03075)</b> <br> 
 <b>Jing Zhang</b>, Deng-Ping Fan, Yuchao Dai, Saeed Anwar, Fatemeh Sadat Saleh, Sadegh Aliakbarian, Nick Barnes.
 <i>TPAMI 2021</i>.
 
-<b>2. [Simultaneously Localize, Segment and Rank the Camouflaged Objects]</b> <br> 
+<b>2. [Simultaneously Localize, Segment and Rank the Camouflaged Objects](https://arxiv.org/abs/2103.04011)</b> <br> 
 Yunqiu Lyu*, <b>Jing Zhang*</b>, Yuchao Dai, Aixuan Li, Bowen Liu, Nick Barnes, Deng-Ping Fan.
 <i>CVPR 2021</i>.
 
@@ -20,11 +20,11 @@ Aixuan Li*, <b>Jing Zhang*</b>, Yunqiu Lyu, Bowen Liu, Tong Zhang, Yuchao Dai.
 Wangbo Zhao, <b>Jing Zhang</b>, Long Li, Nick Barnes, Nian Liu, Junwei Han.
 <i>CVPR 2021</i>.
 
-<b>5. [Learning Saliency from Single Noisy Labelling: A Robust Model Fitting Perspective]</b> <br> 
+<b>5. [Learning Saliency from Single Noisy Labelling: A Robust Model Fitting Perspective](https://ieeexplore.ieee.org/document/9303417)</b> <br> 
 <b>Jing Zhang</b>, Yuchao Dai, Tong Zhang, Mehrtash T Harandi, Nick Barnes, Richard Hartley.
 <i>TPAMI 2020</i>.
 
-<b>6. [Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection]</b> <br> 
+<b>6. [Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620341.pdf)</b> <br> 
 <b>Jing Zhang</b>, Jianwen Xie, Nick Barnes.
 <i>ECCV 2020</i>.
 
