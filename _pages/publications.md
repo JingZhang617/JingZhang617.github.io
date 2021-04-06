@@ -3,12 +3,11 @@ title: "Selected Publications [(Google Scholar Profile)](https://scholar.google.
 permalink: /publications/
 author_profile: true
 ---
-<br>
+
 <b>1. [Uncertainty Inspired RGB-D Saliency Detection](https://arxiv.org/abs/2009.03075)</b> <br> 
 <b>Jing Zhang</b>, Deng-Ping Fan, Yuchao Dai, Saeed Anwar, Fatemeh Sadat Saleh, Sadegh Aliakbarian, Nick Barnes.
 <i>TPAMI 2021</i>.
 
-<br>
 <b>2. [Simultaneously Localize, Segment and Rank the Camouflaged Objects](https://arxiv.org/abs/2103.04011)</b> <br> 
 Yunqiu Lyu*, <b>Jing Zhang*</b>, Yuchao Dai, Aixuan Li, Bowen Liu, Nick Barnes, Deng-Ping Fan.
 <i>CVPR 2021</i>.
